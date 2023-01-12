@@ -42,59 +42,20 @@ nav a:hover {
     background-color: black;
 }
 
-.buy {
-    background-color: yellowgreen;
-    color: white;
-    text-decoration: none;
-}
-
-.buy:hover {
-background-color: white;
-color: #000;
-}
-
-#background {
-    background-color: #000;
-}
-
-.msg {
+nav a:hover {
     background-color: grey;
-    color: white;
-}
-
-footer {
-    background-color: #4d4663;
-    color: white;
-}
-
-footer a {
-    color: white;
-    text-decoration: none;
-}
-
-.home-title {
-color:  #150050;
-}
-
-h4 {
-    color: #FB2576;
-}
-
-footer a:hover {
-    color:#FB2576 ;
-}
-
-.logo {
-    width: 80px;
-}
+    color: #d9c2a3;
+}    
 
 .icon {
     width: 80px;
 }
 
-#hero-img {
-    width: 100%;
-}
+nav a {
+    text-align: center;
+    color: skyblue;
+    text-decoration: none;
+}    
 
 footer p {
     font-size: 1.2em;

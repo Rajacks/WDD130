@@ -43,7 +43,7 @@ nav a:hover {
 }
 
 .buy {
-    background-color: #FB2576;
+    background-color: yellowgreen;
     color: white;
     text-decoration: none;
 }
@@ -58,12 +58,12 @@ color: #000;
 }
 
 .msg {
-    background-color: #150050;
+    background-color: grey;
     color: white;
 }
 
 footer {
-    background-color: #150050;
+    background-color: #4d4663;
     color: white;
 }
 

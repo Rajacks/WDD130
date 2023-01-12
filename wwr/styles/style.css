@@ -42,17 +42,17 @@ header {
 
 nav a:hover {
     background-color: black;
-    color: #d9c2a3;
 }
+
 
 .icon {
     width: 80px;
 }
 
-nav a{
+nav a {
     text-align: center;
-    color: #fcfbfc
-}
+    color: #fcfbfb;
+    text-decoration: none;
 
 footer p {
     font-size: 1.2em;

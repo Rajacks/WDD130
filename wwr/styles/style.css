@@ -1,55 +1,113 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Sofia+Sans&display=swap');
 
-.home-title {
-    font-family: "Sofia Sans", Helvetica, sans-serif;
-    font-size: 2em;
+
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
 }
 
-.msg {
-    background-color: #6f7364;
-    line-height: 1.5em;
-  }
-  
-  body {
-    background-color: #fcfbfb;
-    font-family: Raleway, Arial, sans-serif;
-    font-size: 22px;
-    margin: 0;
-    padding: 0;
-}
-h2 {
-    margin: 0;
+nav {
+    text-align: center;
 }
 
 nav a {
-    text-decoration: none;
-    color: #fcfbfb;
     text-align: center;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
     padding: 8px;
 }
 
-.book, .join {
-    background-color: #d9c2a3;
-    color: black;
-    text-decoration: none;
-    font-size: 18px;
-    padding: 15px 30px;
-    margin-top: 50px;
+#hero-msg h1, #hero-msg h4 {
+    text-align: center;
 }
 
-.book, .join {
-    background-color: #d9c2a3;
-    color: black;
+.button-box {
+    text-align: center;
+}
+
+main section {
+    text-align: center;
+}
+
+#background {
+    height: 725px;
+}
+
+body {
+    background-color: #fcfbfb; 
+}
+header {
+    background-color:rgba(20,30,13, .7);
+}
+nav a:hover {
+    background-color: black;
+}
+
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}    
+
+.buy:hover {
+background-color: white;
+color: #000;
+}
+
+#background {
+    background-color: #000;
+}
+
+.msg {
+    background-color: #150050;
+    color: white;
+}
+
+footer {
+    background-color: #150050;
+    color: white;
+}
+
+footer a {
+    color: skyblue;
     text-decoration: none;
-    font-size: 18px;
-    padding: 15px 30px;
-    margin-top: 50px;
-    border-radius: 5px;
 }
-.card-img {
-    border: 10px solid #d9c2a3;
+
+.home-title {
+color:  #150050;
 }
-main section img {
-    box-sizing: border-box;
+
+h4 {
+    color: #FB2576;
 }
+
+footer a:hover {
+    color:#FB2576 ;
+}
+
+.logo {
+    width: 80px;
+}
+
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+
+.icon {
+    width: 80px;
+}
+
+#hero-img {
+    width: 100%;
+}
+
+footer p {
+    font-size: 1.2em;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}    

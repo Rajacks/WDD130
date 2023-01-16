@@ -76,7 +76,7 @@ main section img {
 }
 
 section h4 {
-    color: burlywood;
+    color: yellowgreen;
 }
 
 .icon {
@@ -118,7 +118,7 @@ section h4 {
 
 .msg {
     padding: 35px;
-    background-color: grey;
+    background-color:burlywood;
     line-height: 1.5em;
 }
 
